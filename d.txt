@@ -2,4 +2,5 @@ fourth
 conflict base
 conflict base
 one more fourth
+after stash.
 
