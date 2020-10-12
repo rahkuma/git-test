@@ -1,3 +1,4 @@
 third
 one line.
 verify stash.
+Multiple stash.
